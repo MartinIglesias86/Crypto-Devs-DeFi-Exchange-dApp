@@ -10,7 +10,7 @@ the Rinkeby test net.
 ## Test deploy
 📋 Smart contract deployed in [Rinkeby Testnet Network](https://rinkeby.etherscan.io/address/0x049955f7c5e1F5faf2Ee2107203915eB0FeA09d6)
 
-💻 App deployed [Here](https://crypto-devs-dao-olive.vercel.app/)
+💻 App deployed [Here](https://crypto-devs-de-fi-exchange-d-app.vercel.app/)
 
 ## Requirements
 * Build an exchange with only one asset pair (Eth <> Crypto Dev)
